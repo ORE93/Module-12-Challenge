@@ -1,5 +1,6 @@
 # Supervised Learning
 This is the completed challenge from the 12th Module of my SMU Fintech bootcamp.
+
 ![USL](https://www.edureka.co/blog/wp-content/uploads/2019/11/Unsupervised-Learning-e1574677751474-404x300.jpg)
 
 ## Background
