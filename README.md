@@ -11,6 +11,8 @@ Using your knowledge of the imbalanced-learn library, you’ll use a logistic re
 
 For both cases, you’ll get the count of the target classes, train a logistic regression classifier, calculate the balanced accuracy score, generate a confusion matrix, and generate a classification report.
 
+As part of your GitHub repository, you will create a credit risk analysis report based on the template provided in your Starter_Code folder.
+
 You can find my analysis under the Analysis-Report markdown file included in the repository.
 
 ## Technologies
