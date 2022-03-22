@@ -1,7 +1,7 @@
 # Supervised Learning
 This is the completed challenge from the 12th Module of my SMU Fintech bootcamp.
 
-![USL](https://www.edureka.co/blog/wp-content/uploads/2019/11/Unsupervised-Learning-e1574677751474-404x300.jpg)
+[![12-5-challenge-image.png](https://i.postimg.cc/1XDF3ngY/12-5-challenge-image.png)](https://postimg.cc/0K2jtN0p)
 
 ## Background
 Credit risk poses a classification problem that’s inherently imbalanced. This is because healthy loans easily outnumber risky loans. In this Challenge, you’ll use various techniques to train and evaluate models with imbalanced classes. You’ll use a dataset of historical lending activity from a peer-to-peer lending services company to build a model that can identify the creditworthiness of borrowers.
